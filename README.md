@@ -16,7 +16,7 @@ Requirements
 
 Lily requires several extensions to be installed:
 
- * [EOAuth (required by EAuth)](http://www.yiiframework.com/extension/eoauth, "Yii EOAuth extension") 
+ * [EOAuth (required by EAuth)](http://www.yiiframework.com/extension/eoauth "Yii EOAuth extension") 
  * [Loid extension (required by EAuth)](http://www.yiiframework.com/extension/loid "Yii loid extension")
  * [Yii mail (in order to send notification and activation mails for email authentication type)](http://www.yiiframework.com/extension/mail/ "Yii mail extension")
  * [EAuth][]
